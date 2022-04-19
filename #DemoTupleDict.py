@@ -54,3 +54,4 @@ print(device)
 del device["아이폰"]
 print(device)
 
+## 업데이트 테스트
